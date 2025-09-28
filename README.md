@@ -1,4 +1,3 @@
 # My-Portfolio
 
-Hi, I'm Juliet Chow, a recent graduate from Monash University with a Bachelor's Degree in Computer Science specializing in Data Science.
-Welcome to my professional portfolio, a thoughtfully curated collection that offers a glimpse into my journey, skills, and dedication in the dynamic field of data science. With a foundation built on academic excellence and a passion for innovative problem-solving, I am excited to showcase the depth of my knowledge and the impact of my work.
+Hi, I'm Juliet Chow, a Computer Science graduate from Monash University specializing in Data Science. This portfolio showcases projects and work I’ve completed in data science, highlighting my skills in analytics, problem-solving, and turning data into insights.
